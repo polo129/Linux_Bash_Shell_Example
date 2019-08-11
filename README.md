@@ -7,3 +7,5 @@ Execute example
   Way 2: 
           Use command to change permissions : chmod +x filenam.sh
           Use Execute: ./filename.sh
+
+My blog for linux bash shell: https://linuxbashshell.blogspot.com
